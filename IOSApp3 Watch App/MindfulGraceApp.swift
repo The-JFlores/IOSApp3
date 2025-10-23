@@ -5,4 +5,13 @@
 //  Created by Jose Flores on 2025-10-23.
 //
 
-import Foundation
+import SwiftUI
+
+@main
+struct MindfulGraceApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}

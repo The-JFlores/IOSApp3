@@ -7,7 +7,6 @@
 
 import SwiftUI
 
-@main
 struct MindfulGraceApp: App {
     var body: some Scene {
         WindowGroup {

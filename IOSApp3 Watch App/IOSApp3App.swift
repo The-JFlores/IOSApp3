@@ -7,7 +7,6 @@
 
 import SwiftUI
 
-@main
 struct IOSApp3_Watch_AppApp: App {
     var body: some Scene {
         WindowGroup {
